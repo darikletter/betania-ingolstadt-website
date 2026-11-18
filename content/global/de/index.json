@@ -12,12 +12,12 @@
         "label": "Über uns"
       },
       {
-        "href": "/de/contact",
-        "label": "Kontakt"
-      },
-      {
         "href": "/de/donate",
         "label": "Spenden"
+      },
+      {
+        "href": "/de/contact",
+        "label": "Kontakt"
       }
     ]
   },
