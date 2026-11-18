@@ -17,17 +17,20 @@ import { routing } from '@/i18n/routing';
 const fontSans = FontSans({
   subsets: ['latin'],
   variable: '--font-sans',
+  display: 'swap',
 });
 
 const nunito = Nunito({
   subsets: ['latin'],
   variable: '--font-nunito',
+  display: 'swap',
 });
 
 const lato = Lato({
   subsets: ['latin'],
   variable: '--font-lato',
   weight: '400',
+  display: 'swap',
 });
 
 const DEFAULT_SITE_URL = 'https://www.betania.de';
