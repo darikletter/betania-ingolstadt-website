@@ -12,12 +12,12 @@
         "label": "About Us"
       },
       {
-        "href": "/en/contact",
-        "label": "Contact"
-      },
-      {
         "href": "/en/donate",
         "label": "Donate"
+      },
+      {
+        "href": "/en/contact",
+        "label": "Contact"
       }
     ]
   },
