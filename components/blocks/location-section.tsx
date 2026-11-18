@@ -101,6 +101,7 @@ export const LocationSection = ({ data }: { data: PageBlocksLocation }) => {
               alt={imageAlt || 'Location map'}
               width={600}
               height={400}
+              sizes="(max-width: 768px) 100vw, 50vw"
               className="w-full h-full object-cover"
             />
           </div>
