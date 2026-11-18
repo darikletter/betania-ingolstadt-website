@@ -12,12 +12,12 @@
         "label": "Despre noi"
       },
       {
-        "href": "/ro/contact",
-        "label": "Contact"
-      },
-      {
         "href": "/ro/donate",
         "label": "Donație"
+      },
+      {
+        "href": "/ro/contact",
+        "label": "Contact"
       }
     ]
   },
